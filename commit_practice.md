@@ -27,8 +27,10 @@
 
 
 4. Git의 3가지 공간에는 Working Directory, Staging Area, Commits이 있다. (맞으면 O, 틀리면 X)
-   - 답 :
-   - 이유 :
+   - 답 : O
+   - 이유 : working Directory에서는 문서의 입력, 수정, 삭제 등이 자유롭다.
+            Staging Area는 Commit을 하기 전 단계로 수정이 필요한 경우 다시 수정이 가능하다.
+            Commits는 Commit을 한 뒤의 상태로 수정이 불가능한 기록의 상태이다.
 
 
 
